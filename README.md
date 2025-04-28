@@ -4,7 +4,7 @@
 🛜 currently building my own tech website [IRSANWOY](https://irsanwoy.com) <br>
 👨🏼‍🎓 studying Informatics Engineering (6th semester) <br>
 👨🏼‍💻 learning and working on software development projects since 2022 <br>
-🎬 also creating content on YouTube and TikTok about tech, reactions, and tutorials
+🎬 also creating content on YouTube and TikTok about tech and tutorials
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
